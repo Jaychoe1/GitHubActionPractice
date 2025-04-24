@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "fireship-lessons"
-  }
+    "default": "myawesome-b626b",
+    "xxx": "myawesome-b626b"
+  },
+  "targets": {},
+  "etags": {}
 }
